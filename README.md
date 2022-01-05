@@ -4,7 +4,7 @@ The full and complete list of changes to Paw Bot since 3.0.0 can be found here.
 
 ## Versions
 
-- [Full Changelog](https://github.com/OfficialPawBot/changelog/CHANGELOG.md)
-- [3.3.9](https://github.com/OfficialPawBot/changelog/3.3.9.md)
-- [3.2.5](https://github.com/OfficialPawBot/changelog/3.2.5.md)
-- [3.0.0](https://github.com/OfficialPawBot/changelog/3.0.0.md)
+- [Full Changelog](https://github.com/OfficialPawBot/changelog/blob/main/CHANGELOG.md)
+- [3.3.9](https://github.com/OfficialPawBot/changelog/blob/main/3.3.9.md)
+- [3.2.5](https://github.com/OfficialPawBot/changelog/blob/main/3.2.5.md)
+- [3.0.0](https://github.com/OfficialPawBot/changelog/blob/main/3.0.0.md)
