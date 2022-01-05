@@ -2,6 +2,29 @@
 
 All notable changes to [Paw Bot](https://paw.bot) will be documented here.
 
+# 3.3.9 - (2022-01-05)
+
+## Bug Fixes
+
+- **Command:** Only handle no response if returned no result ([d872c22](https://github.com/OfficialPawBot/paw-bot-overhaul/commit/d872c22b7ade7940e44a3070166b1234ee276c90))
+- **commands:** Add explicit `guild` constraint to nsfw commands ([875ce28](https://github.com/OfficialPawBot/paw-bot-overhaul/commit/875ce28a0f323d85184de51d51e98c9b9436ed5e))
+- **API:** Furrybot endpoints returning TypeError ([fc7f465](https://github.com/OfficialPawBot/paw-bot-overhaul/commit/fc7f4658ed3e1087b05bcb31146f1e31a752eaee))
+- **API:** E6 endpoint returning TypeError ([59459ea](https://github.com/OfficialPawBot/paw-bot-overhaul/commit/59459ea5ca1d3cf292d4e74e26d188428e6e3258))
+
+## Features
+
+- **commands:** Add `embed` command ([b152680](https://github.com/OfficialPawBot/paw-bot-overhaul/commit/b15268000a9c1954ea93ec30d535d7a85527451f))
+- **commands:** Add `about` command ([53467a7](https://github.com/OfficialPawBot/paw-bot-overhaul/commit/53467a797dbb41357f65e0538d85c4dbdba18d74))
+- **commands:** Add `invite` command ([4e5d783](https://github.com/OfficialPawBot/paw-bot-overhaul/commit/4e5d783bcf48f36559ecb4533855512894474290))
+- **commands:** Add `permissions` command ([491866d](https://github.com/OfficialPawBot/paw-bot-overhaul/commit/491866dd589c9334c81c57b0c7153be7defb4f0f))
+- **commands:** Add `list` command ([ac59ce3](https://github.com/OfficialPawBot/paw-bot-overhaul/commit/ac59ce3e38621915e3de2bc165602beabbdc9b7a))
+- **commands:** Add `snowflake` command ([6eb4461](https://github.com/OfficialPawBot/paw-bot-overhaul/commit/6eb44616aef7244e81b78e09a217c81a1ad88e6e))
+- **constraints:** Add `guild` constraint ([c21427c](https://github.com/OfficialPawBot/paw-bot-overhaul/commit/c21427c9dd37de4a3fa71235baedf3d00d650b50))
+
+## Refactor
+
+- **CommandContext:** Bind `command` ([18f6b0b](https://github.com/OfficialPawBot/paw-bot-overhaul/commit/18f6b0b4f6e7b4c51ab601ebdba54ceaf4143a2f))
+
 # 3.2.5 - (2022-01-04)
 
 ## Bug Fixes
